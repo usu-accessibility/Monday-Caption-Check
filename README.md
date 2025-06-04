@@ -53,8 +53,6 @@ This project was developed by a team of dedicated Digital Accessibility Speciali
 - [Contributor 1 Name](Link to Contributor 1's GitHub Profile)
 - [Contributor 2 Name](Link to Contributor 2's GitHub Profile)
 
-## License
-
 This project is open-source and licensed under the [License Name] - for more details, please refer to the [LICENSE.md](link-to-license-file) file.
 
 We believe that Monday Caption Check is a valuable resource for ensuring educational content's accessibility and inclusivity. We welcome your feedback and contributions to make it even better. Thank you for using our tool!
