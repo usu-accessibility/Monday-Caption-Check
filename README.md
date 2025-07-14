@@ -1,6 +1,10 @@
 # Monday Caption Check
 
-Monday Caption Check is a powerful tool designed to enhance the accessibility of educational content by ensuring that video materials are properly captioned. This tool integrates seamlessly with the Monday board, Canvas LMS, YouTube, and Kaltura APIs to automate the process of checking and updating the caption status of videos of Canvas courses.
+Monday Caption Check is a tool that searches a Canvas course for all embedded videos to ensure that video materials are properly captioned. This tool integrates into a Monday board to automate the process of checking and updating the caption status of videos in any given Canvas course.
+
+It looks through all videos (Kaltura embeds and Youtube links & embeds) embedded in any Canvas page within a Canvas course, listing each video as a subitem of the course item. Each listed video, however, is *not guaranteed* to be in active use within a course, and therefore, not guaranteed to need captioning. They may be in an unused Canvas page as a result of copying a previous course.
+
+Due to this, it  is best used
 
 ## Technology Stack
 
