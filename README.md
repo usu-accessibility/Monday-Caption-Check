@@ -1,5 +1,7 @@
 # Monday Caption Check
 
+## WARNING: This tool has been replaced by [Canvas Captions API](https://github.com/usu-accessibility/canvas-captions-api)
+
 Monday Caption Check is a tool that searches a Canvas course for all embedded videos to ensure that video materials are properly captioned. This tool integrates into a Monday board to automate the process of checking and updating the caption status of videos in any given Canvas course.
 
 It looks through all videos (Kaltura audio/video embeds and Youtube links/embeds) embedded in any Canvas page within a Canvas course, listing each video as a subitem of the course item. Each listed video, however, is *not guaranteed* to be in active use within a course, and therefore, not guaranteed to need captioning. They may be in an unused Canvas page as a result of copying a previous course. Frequent use of TidyUp by course owners will minimize this issue.
